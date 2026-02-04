@@ -1,11 +1,25 @@
-x = 5
+a = 5
 
-print(x > 0 and x < 10)
+print(a > 0 and a < 10)
 
-y = 5
+b = 5
 
-print(y < 5 or y > 10)
+print(b < 5 or b > 10)
 
-z = 5
+c = 5
 
-print(not(z > 3 and z < 10))
+print(not(c > 3 and c < 10))
+
+x = ["apple", "banana"]
+y = ["apple", "banana"]
+z = x
+
+# Identity Operators
+print(x is z)
+print(x is y)
+print(x == y)
+print(x is not y)
+
+# Membership Operators
+print("banana" in x)
+print("pineapple" not in y)
