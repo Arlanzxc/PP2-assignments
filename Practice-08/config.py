@@ -1,0 +1,5 @@
+dbhost="localhost"
+dbport="5252"
+dbpassword="postgres159357"
+dbuser="postgres"
+dbname="phonebook"
