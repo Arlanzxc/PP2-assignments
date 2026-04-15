@@ -1,0 +1,1 @@
+It is clock with minutes and seconds only
