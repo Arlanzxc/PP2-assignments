@@ -1,0 +1,36 @@
+[
+    {
+        "name": "TSIS1 Test Alpha",
+        "email": "alpha@gmail.com",
+        "birthday": "2000-01-02",
+        "group": "VIP",
+        "created_at": "2026-04-17T09:12:41.929580",
+        "phones": [
+            {
+                "phone": "+77010000001",
+                "type": "mobile"
+            },
+            {
+                "phone": "+77010000002",
+                "type": "work"
+            },
+            {
+                "phone": "+77010000003",
+                "type": "home"
+            }
+        ]
+    },
+    {
+        "name": "TSIS1 Test Beta",
+        "email": "beta@yahoo.com",
+        "birthday": "1999-12-31",
+        "group": "Work",
+        "created_at": "2026-04-17T09:12:41.929580",
+        "phones": [
+            {
+                "phone": "+77010000004",
+                "type": "mobile"
+            }
+        ]
+    }
+]

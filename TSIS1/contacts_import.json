@@ -1,0 +1,18 @@
+[
+  {
+    "name": "TSIS1 Test Alpha",
+    "email": "alpha_updated@gmail.com",
+    "birthday": "2000-01-02",
+    "group": "Family",
+    "phones": [
+      {
+        "phone": "+77019990001",
+        "type": "mobile"
+      },
+      {
+        "phone": "+77019990002",
+        "type": "home"
+      }
+    ]
+  }
+]

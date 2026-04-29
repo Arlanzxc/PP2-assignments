@@ -1,0 +1,5 @@
+name,email,birthday,group,phone,type
+Alice Johnson,alice@gmail.com,2001-05-15,Friend,+77011234567,mobile
+Alice Johnson,alice.work@gmail.com,2001-05-15,Friend,+77271234567,work
+Bob Smith,bob@company.com,1999-09-21,Work,+77017654321,mobile
+Carol White,carol@yahoo.com,2002-12-03,Family,+77019876543,home
